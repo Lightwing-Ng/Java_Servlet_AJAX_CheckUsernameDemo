@@ -1,0 +1,30 @@
+.UserNameHint {
+    padding: 0 0.3em 0 0.3em;
+    color: white;
+    border-radius: 0.2em;
+}
+
+.Success {
+    background-color: #25AE88;
+}
+
+.Error {
+    background-color: #D75A4A;
+}
+
+.SignUp {
+    font-size: 1.25em;
+    color: #0F88EB;
+    background-color: white;
+    border: #0F88EB solid 1px;
+    border-radius: 0.2em;
+    padding: 0 0.5em 0 0.5em;
+}
+
+.InputField {
+    width: 15em;
+}
+
+div {
+    padding: 2em;
+}
