@@ -11,6 +11,7 @@
         <property name="maxPoolSize">100</property>
         <property name="minPoolSize">10</property>
         <property name="maxStatements">200</property>
+
     </default-config>
 
     <!-- This app is massive! -->
